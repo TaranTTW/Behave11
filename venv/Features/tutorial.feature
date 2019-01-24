@@ -11,3 +11,4 @@ Feature: showing off behave
     Then number should be printed
 
   Scenario: run a third test
+    Given Test
